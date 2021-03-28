@@ -180,7 +180,9 @@ input[type=text] {
 /* Media Q */
 
 @media (max-width:768px) {
+
     .aaa {
         text-align: center;
     }
+    
 }
