@@ -14,11 +14,11 @@ body {
     text-align: right;
 }
 
-.intro-logo {
+.intro__logo {
     width: 100%;
 }
 
-.intro-link {
+.intro__link {
     font-family: fantasy, cursive;
 }
 
