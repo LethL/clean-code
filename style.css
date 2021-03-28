@@ -14,11 +14,11 @@ body {
     text-align: right;
 }
 
-.intro__logo {
+.intro-logo {
     width: 100%;
 }
 
-.intro__link {
+.intro-link {
     font-family: fantasy, cursive;
 }
 
@@ -158,7 +158,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+#completed-tasks label {
     text-decoration: line-through color: #888;
 }
 
