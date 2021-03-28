@@ -5,22 +5,26 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.aaa {
+/* Intro */
+
+.intro {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.aaa img {
+.intro__logo {
     width: 100%;
 }
 
-.aaa .more_inf {
+.intro__link {
     font-family: fantasy, cursive;
 }
 
-.centered-main-page-element {
+/* wrapper */ 
+
+.wrapper {
     display: block;
     width: 500px;
     margin: 0 auto 0;
@@ -66,6 +70,7 @@ button:hover {
 }
 
 /* Heading */
+
 h3,
 label[for='new-task'] {
     color: #333;
